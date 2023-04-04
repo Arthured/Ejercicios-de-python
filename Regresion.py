@@ -47,6 +47,7 @@ print(f"El error maximo es :{max(maximo)}")
 print(f"El error medio es {b1}")
 print(f"El error cuadratico medio es {c1}")
 #y=A*x+B
+#Hace una aproximacion con regrecion de grado m
 m=int(input("Ingrese el grado de la ecuacion: "))
 a1=0
 a2=0
